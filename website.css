@@ -1,0 +1,41 @@
+body{
+    background-color: lightseagreen;
+}
+li{
+    position: relative;
+    left: 460px;
+    bottom: 40px;
+    list-style: none;
+    
+}
+ul{
+    display: inline;
+}
+a{
+    color: White;
+    text-decoration: none;
+}
+a.hover{
+    text-decoration: red;
+}
+div{
+    width: 130px;
+    margin: auto;
+}
+h3,h2{
+    color: white;
+}
+h3{
+    position: relative;
+    left: 42%;
+}
+input{
+    border-radius: 20px;
+}
+blockquote{
+    position: relative;
+    left: 330px
+}
+p{
+    padding-left: 280px;
+}
